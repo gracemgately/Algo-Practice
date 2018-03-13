@@ -13,7 +13,7 @@ brackets encloses a single, unbalanced opening bracket, (, and the pair of paren
 unbalanced closing square bracket, ].
 
 Given  strings of brackets, determine whether each sequence of brackets is balanced. If a string is balanced, 
-print YES on a new line; otherwise, print NO on a new line. */
+return YES; otherwise, return NO. */
 
 
 function balanced(exp){
